@@ -1,8 +1,7 @@
 ![head.png](https://i.imgur.com/gT6ysZ0.gif)
 
-<p align="center">
+─────────────────────────────────────
 
-</p>
 
 L'objet de la guerre n'est pas de mourir pour son pays, mais de faire en sorte que le salaud d'en face meure pour le sien .
 
