@@ -5,7 +5,7 @@
 </p>
 
 L'objet de la guerre n'est pas de mourir pour son pays, mais de faire en sorte que le salaud d'en face meure pour le sien .
-
+<p  alingb="center">
 ─────────────────────────────────────
 </p>
 
