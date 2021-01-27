@@ -2,7 +2,7 @@
 
 ─────────────────────────────────────────────────────────────────────────────────────
 
-L'objet de la guerre n'est pas de mourir pour son pays, mais de faire en sorte que le salaud d'en face meure pour le sien .
+À quoi ça sert de vivre si on meurt à la fin ?.
 
 <p alingb="center">
 ─────────────────────────────────────────────────────────────────────────────────────
