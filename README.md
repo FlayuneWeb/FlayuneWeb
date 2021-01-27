@@ -1,4 +1,4 @@
-![head.png](https://cdn.discordapp.com/attachments/803251584913506383/803582243683303434/videotogif_2021.01.02_18.47.33.gif)
+![head.png](https://cdn.discordapp.com/attachments/803251584913506383/803577645400064020/13-05-33-original.gif)
 
 ─────────────────────────────────────────────────────────────────────────────────────
 
