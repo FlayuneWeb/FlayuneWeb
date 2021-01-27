@@ -1,4 +1,4 @@
-![head.png](https://imgur.com/a/BuWZlzQ.gif)
+![head.png](https://cdn.discordapp.com/attachments/803251584913506383/803577149143384074/tenor.gif)
 
 ─────────────────────────────────────────────────────────────────────────────────────
 
