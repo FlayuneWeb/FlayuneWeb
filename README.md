@@ -14,5 +14,5 @@
 <p align="center">
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazushiWeb&layout=compact&theme=jolly&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlayuneWeblayout=compact&theme=jolly&count_private=true"/>
 
