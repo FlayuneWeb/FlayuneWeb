@@ -14,5 +14,5 @@
 <p align="center">
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlayuneWeb=compact&theme=jolly&count_private=true"/>
+<img align="left" src=https://github-readme-stats.fayuneweb.vercel.app/api?usernameFlayuneweb&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats"/>
 
